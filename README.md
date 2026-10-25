@@ -1,4 +1,9 @@
-# Homelab Sentinel
+# Homelab monitoring project — working title
+
+> **Name noch offen / name pending:** "Homelab Sentinel" ist nur der bisherige
+> Arbeitstitel, kein endgueltiger Produktname. Die Namensfindung laeuft.
+> Vorhandene Repository-URLs und Demo-Screenshots verwenden noch den alten
+> Arbeitstitel; daraus folgt keine Markenfreigabe.
 
 **Dein Homelab. Im Blick.**
 
