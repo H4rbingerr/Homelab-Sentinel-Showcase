@@ -46,6 +46,10 @@ Dieses Repository enthaelt ausschliesslich die statische Projektvorstellung und
 Demoaufnahmen. Alle abgebildeten Daten sind erfunden. Es gibt keine Verbindung
 zu einer produktiven Installation und hier keinen Anwendungscode oder Installer.
 
+Das Wächterwesen auf der Präsentationsseite ist ein eigens für das Projekt
+erstelltes, originales Konzeptmotiv. Es symbolisiert die Observe-only-Grenze:
+beobachten, einordnen und melden, aber nicht eigenmächtig in Systeme eingreifen.
+
 Der Quellcode von Homelab Sentinel bleibt vorerst privat; Mitarbeit dort erfolgt
 auf Einladung. Oeffentliche Besucher erhalten durch diese Praesentation keinen
 Schreibzugriff auf das Anwendungsrepository. Die Praesentationsdateien koennen
