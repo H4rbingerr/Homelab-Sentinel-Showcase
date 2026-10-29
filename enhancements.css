@@ -60,19 +60,6 @@
 .status-grid.three { grid-template-columns: repeat(3, 1fr); }
 .review { color: #f2c779; }
 
-.workflow {
-  margin-top: 30px;
-  padding: 34px;
-  border: 1px solid var(--line);
-  background: #0d171f;
-}
-
-.workflow h3 { margin: 18px 0; font-size: 26px; }
-.workflow p { max-width: 850px; margin: 20px 0 0; color: var(--muted); font-size: 14px; }
-.workflow-line { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
-.workflow-line span { padding: 8px 12px; border: 1px solid #3b555c; color: #c9d7dc; font-size: 12px; }
-.workflow-line i { color: var(--accent); font-style: normal; }
-
 @media (max-width: 980px) {
   .guardian-stage { grid-template-columns: 1fr 330px; }
   .guardian-copy { padding: 44px; }
@@ -90,7 +77,4 @@
   .guardian-label { right: 11px; bottom: 11px; }
   .status-grid.three, .feature-grid { grid-template-columns: 1fr; }
   .feature-grid article { min-height: 0; }
-  .workflow { padding: 24px; }
-  .workflow-line { flex-direction: column; align-items: stretch; }
-  .workflow-line i { display: none; }
 }
