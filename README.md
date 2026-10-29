@@ -7,10 +7,20 @@
 
 **Dein Homelab. Im Blick.**
 
-Sentinel beobachtet Server, Speicher, Firewall und Smart Home. Feste Regeln
+Sentinel beobachtet Server, Speicher, Firewall, Backups und Smart Home. Feste Regeln
 erkennen bekannte Fehler, fassen Ereignisse zu Vorfaellen zusammen und melden
 sie per Gotify, Telegram oder Home Assistant. Eine optionale KI-Analyse kann
 zusaetzlichen Kontext liefern. Das Projekt befindet sich in Entwicklung.
+
+Der aktuelle Hauptzweig umfasst unter anderem herstellerneutrale
+Backup-Frische, einen externen Dead-Man-Check und zeitlich begrenzte
+Wartungsfenster. Ein streng begrenzter lokaler CLI-Incident-Analyst fuer Codex,
+Claude oder kompatible Werkzeuge befindet sich im Review. Er darf Vorfaelle
+einordnen und manuelle Pruefungen vorschlagen, aber keine Systeme veraendern.
+
+Die Praesentationsseite trennt klar zwischen vorhandenen Funktionen, aktuell
+geprueften Implementierungen und Roadmap-Ideen. Der Stand ist keine Aussage
+ueber einen produktiven Rollout.
 
 ## Projekt ansehen
 
